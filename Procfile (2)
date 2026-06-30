@@ -1,0 +1,1 @@
+worker: python auto_post_usa.py & python auto_post_uk.py
